@@ -2,11 +2,10 @@
 
 
                                        基于go-cqhttp的newbingQQ聊天机器人
-
+                                       
 ####使用教程
+##### 一. python源码
 *你需要Python环境来运行，并且需要安装websocket-client、requests、flask库
-
-*如果真的有人要使用，我会进行打包的
 
 
 1.获取newbing的ticket
@@ -24,4 +23,8 @@
 
 *请不要更改config.yml
 
-仅供交流学习
+##### 二. 可执行文件
+
+             将QQ和ticket写到list.txt里面即可，其他相同
+             直接运行newbingbot.exe
+仅供交流学习 :-)
