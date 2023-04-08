@@ -4,6 +4,7 @@
                                        基于go-cqhttp的newbingQQ聊天机器人
                                        
 ####使用教程
+*需要魔法上网
 ##### 一. python源码
 *你需要Python环境来运行，并且需要安装websocket-client、requests、flask库
 
