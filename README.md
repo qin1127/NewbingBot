@@ -1,7 +1,7 @@
 #    New Bing QQBot
 
 
-                                                          基于go-cqhttp的newbingQQ聊天机器人
+                                       基于go-cqhttp的newbingQQ聊天机器人
 
 ####使用教程
 *你需要Python环境来运行，并且需要安装websocket-client、requests、flask库
@@ -24,3 +24,4 @@
 
 *请不要更改config.yml
 
+仅供交流学习
