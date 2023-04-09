@@ -1,4 +1,4 @@
-QQ = "3361823093"                                   # 你的QQ号,只用来判断群聊里是不是@了你
+QQ = ""                                   # 你的QQ号,只用来判断群聊里是不是@了你
 ticket = "1rbl1E09wF3BwAR-3ZNT7pTyHZe_Ji1e02xk0s4GznxUBTFTJAQJQP4-iF1VrBB7yF1nq9HnjLgcobqU7lsA3J0NZIXb4HHa7_-uevcSdwIk2TFhDXhMw2iYLs5UXs39R01Sq_uUBh39M5T0nA4wj5cf5Qo1Rn1Gt0ToUFiSVjHQbaH9htWbqd1xK6DnGHtPN3-Y_4SfQnN4rQGTYmRbRjw"
                                                     # 填你的bingbot的一个cookies，获取方法见github
                                                     #这个是我的ticket，过期了请自行获取
@@ -12,7 +12,7 @@ ticket = "1rbl1E09wF3BwAR-3ZNT7pTyHZe_Ji1e02xk0s4GznxUBTFTJAQJQP4-iF1VrBB7yF1nq9
 
 使用前要填上你的qq和ticket
 ticket获取方法见github
-没有做登录逻辑 PS：太菜了 ，所以如果你的ticket过期了，你需要重新获取ticket  注意！ticket大概半个月过期一次
+ 如果你的ticket过期了，你需要重新获取ticket  注意！ticket大概半个月过期一次
 
 
 '''
@@ -367,6 +367,6 @@ if __name__ == '__main__':
 
 #真的有人会看到吗，花了这么长时间，好像没有任何意义  :-X
 
-#如果你也对这个感兴趣或安装出现问题，或者有什么好的想法，可以加我qq  919836565(备注“bingbot”)，我会尽力帮助你 :-)
+#如果你也对这个感兴趣或安装出现问题，或者有什么好的想法，可以联系我，我会尽力帮助你 :-)
 
 
