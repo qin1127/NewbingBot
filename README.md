@@ -28,4 +28,4 @@
 
              将QQ和ticket写到list.txt里面即可，其他相同
              直接运行newbingbot.exe
-仅供交流学习 :-)
+
